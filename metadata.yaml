@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9300
     wikipedia: http://en.wikipedia.org/wiki/Lewis_Gaylord_Clark
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25475#The-Knickerbocker-or-New-York-Monthly-Magazine-June-1844Volume-23-Number-6
 gutenberg_bookshelf: The Knickerbocker
 gutenberg_issued: '2008-05-15'
 gutenberg_type: Text
